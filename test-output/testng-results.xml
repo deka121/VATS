@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Regression" duration-ms="95" started-at="2018-04-13T04:30:42Z" finished-at="2018-04-13T04:30:42Z">
+    <groups>
+    </groups>
+    <test name="smoke test" duration-ms="95" started-at="2018-04-13T04:30:42Z" finished-at="2018-04-13T04:30:42Z">
+      <class name="Vodafone.Practise">
+        <test-method status="PASS" signature="OpenUrl()[pri:0, instance:Vodafone.Practise@735b5592]" name="OpenUrl" is-config="true" duration-ms="27" started-at="2018-04-13T04:30:42Z" finished-at="2018-04-13T04:30:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenUrl -->
+        <test-method status="PASS" signature="Login()[pri:0, instance:Vodafone.Practise@735b5592]" name="Login" duration-ms="10" started-at="2018-04-13T04:30:42Z" finished-at="2018-04-13T04:30:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method status="PASS" signature="Logout()[pri:0, instance:Vodafone.Practise@735b5592]" name="Logout" is-config="true" duration-ms="1" started-at="2018-04-13T04:30:42Z" finished-at="2018-04-13T04:30:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Logout -->
+      </class> <!-- Vodafone.Practise -->
+    </test> <!-- smoke test -->
+  </suite> <!-- Regression -->
+</testng-results>

@@ -1,0 +1,12 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="Regression">
+  <test name="smoke test">
+    <classes>
+    <class name ="Vodafone.Practise">
+    </class>
+   </classes>
+   </test>
+
+</suite>
+
